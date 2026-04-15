@@ -6,7 +6,7 @@
 #
 azure-ai-vision-imageanalysis==1.0.0
     # via -r .\requirements.in
-azure-core==1.38.0
+azure-core==1.39.0
     # via
     #   azure-ai-vision-imageanalysis
     #   azure-identity
@@ -20,7 +20,7 @@ cffi==1.17.1
     # via cryptography
 charset-normalizer==3.4.1
     # via requests
-cryptography==46.0.5
+cryptography==46.0.7
     # via
     #   azure-identity
     #   msal
@@ -41,7 +41,7 @@ pyjwt[crypto]==2.10.1
     # via
     #   msal
     #   pyjwt
-requests==2.32.4
+requests==2.33.0
     # via
     #   azure-core
     #   msal
@@ -52,5 +52,5 @@ typing-extensions==4.13.1
     #   azure-ai-vision-imageanalysis
     #   azure-core
     #   azure-identity
-urllib3==2.6.0
+urllib3==2.6.3
     # via requests
