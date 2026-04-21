@@ -1,5 +1,5 @@
 fastapi==0.109.1
-python-dotenv==0.14.0
+python-dotenv==1.2.2
 uvicorn==0.12.1
 opencv-python==4.8.1.78
 tqdm==4.66.3
