@@ -1,9 +1,9 @@
 fastapi==0.109.1
-python-dotenv==0.14.0
+python-dotenv==1.2.2
 uvicorn==0.12.1
 ObjDict==0.4.4
 joblib==1.2.0
-transformers==4.53.0
-torch==2.7.1
-azure-core==1.38.0
+transformers==5.0.0rc3
+torch==2.8.0
+azure-core==1.39.0
 azure-search-documents==11.1.0

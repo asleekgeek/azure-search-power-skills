@@ -1,5 +1,5 @@
 fastapi==0.109.1
-python-dotenv==0.14.0
+python-dotenv==1.2.2
 uvicorn==0.12.1
 ObjDict==0.4.4
 azureml-core==1.22.0
@@ -13,7 +13,7 @@ azureml-defaults==1.22.0
 azureml-interpret==1.22.0
 azureml-train-automl-runtime==1.22.0
 azureml-train-automl==1.22.0
-torch==2.8.0
+torch==2.11.0
 torchvision==0.8.2
 
 
